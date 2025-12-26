@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Terra FMP Live — Executable Semantic Prototype</title>
+
+<style>
+body {
+  font-family: Inter, system-ui, sans-serif;
+  background: #f5f5f5;
+  color: #2c3e50;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 24px;
+}
+
+h1 { margin: 0; font-size: 28px; }
+h2 { margin-top: 0; }
+
+main {
+  padding: 24px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+textarea, input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  margin-top: 12px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: none;
+  background: #5b6cff;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover { opacity: 0.9; }
+
+pre {
+  background: #eef3ff;
+  padding: 12px;
+  border-radius: 8px;
+  white-space: pre-wrap;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  color: #777;
+  margin: 32px 0;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Terra FMP Live</h1>
+  <p>Executable Semantic Prototype · Fractal Metascience Paradigm</p>
+</header>
+
+<main>
+
+<div class="card">
+  <h2>1. L0 Semantic Input</h2>
+  <textarea id="inputText" rows="4" placeholder="Введите текст для семантической обработки..."></textarea>
+  <button onclick="processInput()">Process</button>
+</div>
+
+<div class="card">
+  <h2>2. Semantic Analysis (L0–L1)</h2>
+  <pre id="semanticOutput">—</pre>
+</div>
+
+<div class="card">
+  <h2>3. Ethical Validation</h2>
+  <pre id="ethicsOutput">—</pre>
+</div>
+
+<div class="card">
+  <h2>4. Archive Log</h2>
+  <pre id="archiveOutput">—</pre>
+</div>
+
+</main>
+
+<footer>
+  Terra FMP Live · Abdurashid Abdukarimov · AIUZ Terra Ecosystem  
+  <br>Offline · No ML · No Training · Fully Inspectable
+</footer>
+
+<script>
+/* ========= L0 SEMANTIC KERNEL ========= */
+
+function L0SemanticKernel() {
+  this.intentPatterns = {
+    CREATE: ['создать','сделать','архив'],
+    ANALYZE: ['анализ','изучить','понять'],
+    SEARCH: ['поиск','найти'],
+    HELP: ['помощь','как']
+  };
+}
+
+L0SemanticKernel.prototype.extractKeywords = function(text) {
+  return [...new Set(
+    (text.toLowerCase().match(/[\p{L}]{3,}/gu) || [])
+  )];
+};
+
+L0SemanticKernel.prototype.detectIntent = function(text) {
+  let best = 'UNKNOWN', score = 0;
+  for (let i in this.intentPatterns) {
+    let s = this.intentPatterns[i].filter(w => text.includes(w)).length;
+    if (s > score) { score = s; best = i; }
+  }
+  return best;
+};
+
+/* ========= ETHICAL LAYER ========= */
+
+function TerraEthicalLayer() {
+  this.blocked = ['насилие','violence','hate'];
+}
+
+TerraEthicalLayer.prototype.validate = function(text) {
+  let lc = text.toLowerCase();
+  for (let b of this.blocked) {
+    if (lc.includes(b)) {
+      return { passed:false, reason:'Blocked content detected: ' + b };
+    }
+  }
+  return { passed:true, reason:'No violations detected' };
+};
+
+/* ========= ARCHIVE ========= */
+
+let archive = [];
+
+function archiveEntry(entry) {
+  archive.push({
+    time: new Date().toISOString(),
+    data: entry
+  });
+}
+
+/* ========= SYSTEM ========= */
+
+const kernel = new L0SemanticKernel();
+const ethics = new TerraEthicalLayer();
+
+function processInput() {
+  const text = document.getElementById('inputText').value;
+
+  const semantics = {
+    intent: kernel.detectIntent(text),
+    keywords: kernel.extractKeywords(text)
+  };
+
+  const ethical = ethics.validate(text);
+
+  archiveEntry({ text, semantics, ethical });
+
+  document.getElementById('semanticOutput').textContent =
+    JSON.stringify(semantics, null, 2);
+
+  document.getElementById('ethicsOutput').textContent =
+    JSON.stringify(ethical, null, 2);
+
+  document.getElementById('archiveOutput').textContent =
+    JSON.stringify(archive, null, 2);
+}
+</script>
+
+</body>
+</html>
