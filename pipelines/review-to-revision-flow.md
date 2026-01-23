@@ -170,3 +170,9 @@ It depends on whether:
 - and change is accountable.
 
 This document defines that contract.
+
+---
+<!-- TERRA_IDENTITY_POSTFIX v1 -->
+**Contact:** a.abdukarimov@fractal-metascience.org
+**ORCID:** 0009-0000-6394-4912
+
