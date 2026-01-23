@@ -59,3 +59,8 @@ It is:
 - open
 - falsifiable through practice
 - embodied partially in Terra systems
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
