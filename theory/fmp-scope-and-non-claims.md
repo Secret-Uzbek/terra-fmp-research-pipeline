@@ -139,3 +139,8 @@ Fractal Metascience Paradigm is an **opening framework**, not a closing theory.
 
 Its success is measured not by acceptance,
 but by the quality of discussion it enables.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
