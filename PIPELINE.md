@@ -61,3 +61,8 @@ No single role is authoritative.
 - Re-ingestion into the pipeline
 
 This loop is **intentional** and **necessary**.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
