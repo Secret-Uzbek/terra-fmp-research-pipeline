@@ -144,3 +144,8 @@ FMP is a **framework for thinking about how knowledge systems relate and evolve*
 
 It does not claim truth —  
 it claims *structure, process, and coordination*.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
