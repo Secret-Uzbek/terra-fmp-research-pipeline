@@ -105,3 +105,8 @@ This repository exists to be *tested*, not defended.
 If the framework fails under scrutiny, that failure is itself a valid research outcome.
 
 Discussion is the mechanism by which this system either evolves — or dissolves.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
