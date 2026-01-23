@@ -69,3 +69,8 @@ Start with:
 1. `MANIFEST.md`
 2. `PIPELINE.md`
 3. `theory/fmp-overview.md`
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
