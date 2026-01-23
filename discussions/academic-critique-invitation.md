@@ -128,3 +128,8 @@ You are not expected to agree.
 You are invited to think, question, and argue.
 
 That is the only entry requirement.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
