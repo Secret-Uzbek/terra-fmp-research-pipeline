@@ -43,3 +43,8 @@ This repository explicitly invites critique.
 Critique is not external to the system.
 
 It is one of its driving forces.
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
