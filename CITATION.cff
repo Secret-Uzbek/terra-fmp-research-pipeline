@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Fractal Metascience Paradigm"
+message: "Living citation - no versions, only breath"
+type: software
+authors:
+  - family-names: Abdukarimov
+    given-names: Abdurashid Abdulkhamitovich
+    orcid: "https://orcid.org/0009-0000-6394-4912"
+version: 1.0.0
+date-released: 2025-11-08
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/Secret-Uzbek"
+keywords:
+  - fractal metascience
+  - AIUZ Terra
+  - Uzbek mining
+  - decentralized science
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17558638"
