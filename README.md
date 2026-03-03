@@ -1,40 +1,26 @@
-# 🔬 Terra FMP Research Pipeline
+# 🌐 TERRA FMP RESEARCH PIPELINE
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061978.svg)](https://doi.org/10.5281/zenodo.18061978)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Live Site](secret-uzbek.github.io/terra-fmp-research-pipeline)](https://secret-uzbek.github.io/terra-fmp-research-pipeline)
 
-[![Live](https://img.shields.io/badge/Live-Research%20Pipeline-blue)](https://secret-uzbek.github.io/terra-fmp-research-pipeline)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
+> **Integrates theory, code and publication workflow with Zenodo auto-publish.**
 
-> **Terra FMP Research Pipeline** integrates theory development, live semantic systems, and academic publication workflows into a unified continuous research pipeline.
+## 🔬 About
+Part of the **Fractal Metascience Paradigm (FMP)** ecosystem developed by Abdurashid Abdukarimov.
+This repository implements principles of **NULLO** (Zero-Point Ontology), **PLT** (Post-Lingua Trace), and **UCOM** (Universal Communication).
 
-## 🔄 Research Workflow
-
+## 📚 Citation
+```bibtex
+@misc{abdukarimov2026terrafmpresearchpipeline,
+  author = {Abdurashid Abdukarimov},
+  title = {terra-fmp-research-pipeline},
+  year = {2026},
+  doi = {10.5281/zenodo.18061978},
+  url = {https://github.com/Secret-Uzbek/terra-fmp-research-pipeline}
+}
 ```
-Theory (FMP) → Formalization → Code → Live Demo → Paper → Zenodo → ORCID
-```
-
-## 📋 Pipeline Components
-
-| Component | Description |
-|-----------|-------------|
-| `PIPELINE.md` | Full pipeline specification |
-| `MANIFEST.md` | Research artifact manifest |
-| `CORE_ZENODO_PROTOCOL.md` | Zenodo auto-publish protocol |
-| `FMP_FORMAL_AXIOMS.md` | Mathematical formalization |
-
-## 🎯 Goals
-
-1. **Continuous theory development** — iterative FMP refinement
-2. **Automated publication** — Zenodo DOI generation on release
-3. **ORCID integration** — all outputs linked to ORCID
-4. **Open Science** — CC0/CC-BY licensing throughout
-
-## 📊 Outputs
-
-- 17+ DOI-indexed publications
-- 16+ GitHub repositories
-- Live semantic system demos
-- Academic papers (in progress: Foundations of Science)
 
 ## 👤 Author
-
-**Abdurashid Abdukarimov** | Fractal Metascience Foundation | Tashkent, Uzbekistan  
+**Abdurashid Abdukarimov** | Fractal Metascience Foundation, Tashkent
 🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Central](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
