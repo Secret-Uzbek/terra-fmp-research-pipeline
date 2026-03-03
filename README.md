@@ -1,76 +1,40 @@
-# Terra FMP Research Pipeline
+# 🔬 Terra FMP Research Pipeline
 
-This repository is a **research pipeline** for the Fractal Metascience Paradigm (FMP).
+[![Live](https://img.shields.io/badge/Live-Research%20Pipeline-blue)](https://secret-uzbek.github.io/terra-fmp-research-pipeline)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
 
-It integrates:
-- theoretical foundations,
-- executable semantic systems,
-- ethical constraints,
-- and academic discussion pathways
+> **Terra FMP Research Pipeline** integrates theory development, live semantic systems, and academic publication workflows into a unified continuous research pipeline.
 
-into a single reproducible structure.
+## 🔄 Research Workflow
 
-This is **not** a software product and **not** a finished theory.
-It is an **epistemic infrastructure**.
+```
+Theory (FMP) → Formalization → Code → Live Demo → Paper → Zenodo → ORCID
+```
 
----
+## 📋 Pipeline Components
 
-## What this repository is
+| Component | Description |
+|-----------|-------------|
+| `PIPELINE.md` | Full pipeline specification |
+| `MANIFEST.md` | Research artifact manifest |
+| `CORE_ZENODO_PROTOCOL.md` | Zenodo auto-publish protocol |
+| `FMP_FORMAL_AXIOMS.md` | Mathematical formalization |
 
-- A coordination layer between theory, code, and critique
-- A reproducible research environment
-- A “living system” rather than a static publication
+## 🎯 Goals
 
----
+1. **Continuous theory development** — iterative FMP refinement
+2. **Automated publication** — Zenodo DOI generation on release
+3. **ORCID integration** — all outputs linked to ORCID
+4. **Open Science** — CC0/CC-BY licensing throughout
 
-## Core components
+## 📊 Outputs
 
-- **FMP (Fractal Metascience Paradigm)** — meta-scientific framework
-- **Terra Semantic System (L0–L1)** — executable semantic kernel
-- **Ethical Layer** — local, explicit content constraints
-- **Live HTML Prototype** — proof of operationality
-- **Discussion Pipeline** — structured academic critique
+- 17+ DOI-indexed publications
+- 16+ GitHub repositories
+- Live semantic system demos
+- Academic papers (in progress: Foundations of Science)
 
----
+## 👤 Author
 
-## Repository structure (overview)
-
-theory/ — conceptual foundations
-systems/ — semantic and ethical architecture
-implementations/ — live systems and demos
-pipelines/ — academic & technical workflows
-discussions/ — critique and collaboration entry points
-
-
----
-
-## Status
-
-This repository represents a **24-hour integration snapshot**.
-
-Nothing here claims finality.
-Everything here is open to:
-- inspection
-- critique
-- mutation
-
----
-
-## Author
-
-Abdurashid Abdukarimov  
-AIUZ Terra Ecosystem
-
----
-
-## How to proceed
-
-Start with:
-1. `MANIFEST.md`
-2. `PIPELINE.md`
-3. `theory/fmp-overview.md`
-
-
----
-**Contact:** a.abdukarimov@fractal-metascience.org  
-**ORCID:** 0009-0000-6394-4912
+**Abdurashid Abdukarimov** | Fractal Metascience Foundation | Tashkent, Uzbekistan  
+🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Central](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
