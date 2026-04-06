@@ -56,14 +56,14 @@ No claim in the preprint depends on executing the code.
 
 Primary (choose one):
 
-- `cs.AI` — Artificial Intelligence (conceptual systems)
-- `cs.CY` — Computers and Society (ethics & epistemology)
-- `cs.LO` — Logic in Computer Science (meta-frameworks)
+- `cs.AI` вЂ” Artificial Intelligence (conceptual systems)
+- `cs.CY` вЂ” Computers and Society (ethics & epistemology)
+- `cs.LO` вЂ” Logic in Computer Science (meta-frameworks)
 
 Optional secondary:
 
-- `nlin.AO` — Adaptation and Self-Organizing Systems
-- `phil-sci` — Philosophy of Science (if appropriate)
+- `nlin.AO` вЂ” Adaptation and Self-Organizing Systems
+- `phil-sci` вЂ” Philosophy of Science (if appropriate)
 
 ---
 
@@ -112,8 +112,8 @@ In the arXiv paper:
 
 - cite the Zenodo DOI (once minted)
 - optionally include GitHub link as supplementary material
-- avoid phrases like “the system proves”
-- prefer “the repository demonstrates a possible instantiation”
+- avoid phrases like вЂњthe system provesвЂќ
+- prefer вЂњthe repository demonstrates a possible instantiationвЂќ
 
 Example wording:
 
@@ -128,8 +128,8 @@ Example wording:
 Rules:
 
 - arXiv v1 corresponds to Zenodo snapshot v0.1.0
-- major conceptual changes → new arXiv version
-- minor clarifications → repository commits only
+- major conceptual changes в†’ new arXiv version
+- minor clarifications в†’ repository commits only
 
 The arXiv paper should **lag**, not chase, repository changes.
 
@@ -139,19 +139,19 @@ The arXiv paper should **lag**, not chase, repository changes.
 
 Recommended defensive language:
 
-- “illustrative”
-- “conceptual”
-- “epistemic”
-- “non-exhaustive”
-- “time-bound snapshot”
+- вЂњillustrativeвЂќ
+- вЂњconceptualвЂќ
+- вЂњepistemicвЂќ
+- вЂњnon-exhaustiveвЂќ
+- вЂњtime-bound snapshotвЂќ
 
 Avoid:
 
-- “optimal”
-- “universal”
-- “complete”
-- “solves”
-- “guarantees”
+- вЂњoptimalвЂќ
+- вЂњuniversalвЂќ
+- вЂњcompleteвЂќ
+- вЂњsolvesвЂќ
+- вЂњguaranteesвЂќ
 
 ---
 
