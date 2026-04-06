@@ -86,7 +86,7 @@ Disagreement is valuable.
 
 ---
 
-## 5. Author’s Position
+## 5. Author's Position
 
 The author does not claim:
 

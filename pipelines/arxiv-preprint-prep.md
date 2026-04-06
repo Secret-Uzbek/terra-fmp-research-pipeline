@@ -102,7 +102,7 @@ Secondary (optional):
 - cs.SE
 
 Avoid:
-- “General Physics”
+- "General Physics"
 - overly philosophical-only categories
 
 ---
@@ -133,7 +133,7 @@ arXiv-friendly writing means:
 - no grand conclusions
 
 Think:
-> “method note”, not “revolution”.
+> "method note", not "revolution".
 
 ---
 

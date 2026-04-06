@@ -112,8 +112,8 @@ In the arXiv paper:
 
 - cite the Zenodo DOI (once minted)
 - optionally include GitHub link as supplementary material
-- avoid phrases like “the system proves”
-- prefer “the repository demonstrates a possible instantiation”
+- avoid phrases like "the system proves"
+- prefer "the repository demonstrates a possible instantiation"
 
 Example wording:
 
@@ -139,19 +139,19 @@ The arXiv paper should **lag**, not chase, repository changes.
 
 Recommended defensive language:
 
-- “illustrative”
-- “conceptual”
-- “epistemic”
-- “non-exhaustive”
-- “time-bound snapshot”
+- "illustrative"
+- "conceptual"
+- "epistemic"
+- "non-exhaustive"
+- "time-bound snapshot"
 
 Avoid:
 
-- “optimal”
-- “universal”
-- “complete”
-- “solves”
-- “guarantees”
+- "optimal"
+- "universal"
+- "complete"
+- "solves"
+- "guarantees"
 
 ---
 

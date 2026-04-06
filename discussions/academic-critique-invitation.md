@@ -81,7 +81,7 @@ Both short and long-form contributions are welcome.
 
 ---
 
-## 6. Author’s Commitments
+## 6. Author's Commitments
 
 The author commits to:
 
