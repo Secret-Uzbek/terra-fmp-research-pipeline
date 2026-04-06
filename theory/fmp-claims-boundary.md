@@ -142,7 +142,7 @@ Changes to this document require:
 
 FMP is a **framework for thinking about how knowledge systems relate and evolve**.
 
-It does not claim truth —  
+It does not claim truth вЂ”  
 it claims *structure, process, and coordination*.
 
 
