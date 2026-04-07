@@ -33,7 +33,7 @@ It SHOULD NOT be:
 
 ## 2. Recommended Preprint Types (Choose One)
 
-### Option A — Conceptual Core
+### Option A вЂ” Conceptual Core
 Title example:
 > *Fractal Metascience Paradigm (FMP): A Meta-Methodological Framework*
 
@@ -47,12 +47,12 @@ No code required.
 
 ---
 
-### Option B — Executable Semantics
+### Option B вЂ” Executable Semantics
 Title example:
 > *Executable Semantic Kernels for Meta-Scientific Reasoning: A Prototype Study*
 
 Contents:
-- semantic kernel description (L0–L1)
+- semantic kernel description (L0вЂ“L1)
 - ethical constraints
 - architecture overview
 - reference to live HTML prototype (GitHub)
@@ -61,7 +61,7 @@ This option is often **better received**.
 
 ---
 
-### Option C — Methodological Infrastructure
+### Option C вЂ” Methodological Infrastructure
 Title example:
 > *From Theory to Execution: A Reproducible Research Pipeline for Meta-Scientific Systems*
 

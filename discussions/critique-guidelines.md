@@ -1,7 +1,7 @@
 # Critique Guidelines for the Fractal Metascience Paradigm (FMP)
 
 **Repository:** Terra FMP Research Pipeline  
-**Status:** Active — critique welcomed  
+**Status:** Active вЂ” critique welcomed  
 **Author:** Abdurashid Abdukarimov
 
 ---
@@ -89,9 +89,9 @@ Contributors are encouraged (not required) to use the following structure:
 
 Critique can operate at different levels:
 
-- **L0 — Surface:** terminology, clarity, presentation
-- **L1 — Structural:** architecture, assumptions, boundaries
-- **L2 — Meta:** epistemology, philosophy of science, ethics
+- **L0 вЂ” Surface:** terminology, clarity, presentation
+- **L1 вЂ” Structural:** architecture, assumptions, boundaries
+- **L2 вЂ” Meta:** epistemology, philosophy of science, ethics
 
 All levels are acceptable.  
 None are privileged a priori.
@@ -145,7 +145,7 @@ It is defended only by:
 - openness,
 - and its ability to survive critique.
 
-If it fails — that failure is informative.
+If it fails вЂ” that failure is informative.
 
 
 ---

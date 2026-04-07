@@ -1,4 +1,4 @@
-# Fractal Metascience Paradigm — Scope and Non-Claims
+# Fractal Metascience Paradigm вЂ” Scope and Non-Claims
 
 **Author:** Abdurashid Abdukarimov  
 **Context:** Terra FMP Research Pipeline  

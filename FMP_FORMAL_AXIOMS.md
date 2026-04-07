@@ -38,12 +38,12 @@ It claims to provide a **meta-scientific coordination layer** across them.
 
 ---
 
-## 2. Claim C2: Observer–System–Interface Triad
+## 2. Claim C2: ObserverвЂ“SystemвЂ“Interface Triad
 
 **Claim C2**
 
 > Any scientific act necessarily involves a triadic structure:  
-> **Observer – System – Interface**, where the interface actively shapes what can be observed, modeled, and validated.
+> **Observer вЂ“ System вЂ“ Interface**, where the interface actively shapes what can be observed, modeled, and validated.
 
 **Clarification**
 - The interface includes instruments, models, languages, AI systems, and formal frameworks.
@@ -81,7 +81,7 @@ It claims to provide a **meta-scientific coordination layer** across them.
 > A scientific framework gains epistemic strength when its core assumptions can be made **executable**, even in minimal, non-ML, non-statistical form.
 
 **Explanation**
-- Executability ≠ correctness
+- Executability в‰  correctness
 - Executability = inspectability + reproducibility
 
 **Consequence**

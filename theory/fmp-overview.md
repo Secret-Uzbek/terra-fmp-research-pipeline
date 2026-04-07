@@ -1,4 +1,4 @@
-# Fractal Metascience Paradigm (FMP) — Overview
+# Fractal Metascience Paradigm (FMP) вЂ” Overview
 
 The Fractal Metascience Paradigm proposes that
 scientific knowledge evolves **fractally**, not linearly.

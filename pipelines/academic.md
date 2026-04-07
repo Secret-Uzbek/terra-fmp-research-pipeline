@@ -1,4 +1,4 @@
-# Academic Pipeline — Terra / FMP
+# Academic Pipeline вЂ” Terra / FMP
 
 This document defines how the Terra FMP repository
 can be used, cited, extended, and defended
@@ -10,7 +10,7 @@ within academic and research-oriented contexts.
 
 This repository is positioned as:
 
-- A **conceptual–technical research artifact**
+- A **conceptualвЂ“technical research artifact**
 - An **executable epistemic prototype**
 - A bridge between:
   - philosophy of science
@@ -58,7 +58,7 @@ This work may be situated in:
 
 ### Recommended citation format
 
-# Academic Pipeline — Terra / FMP
+# Academic Pipeline вЂ” Terra / FMP
 
 This document defines how the Terra FMP repository
 can be used, cited, extended, and defended
@@ -70,7 +70,7 @@ within academic and research-oriented contexts.
 
 This repository is positioned as:
 
-- A **conceptual–technical research artifact**
+- A **conceptualвЂ“technical research artifact**
 - An **executable epistemic prototype**
 - A bridge between:
   - philosophy of science
