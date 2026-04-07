@@ -20,7 +20,7 @@
 
 
 ---
-## 🌍 FMP Ecosystem Links
+## ? FMP Ecosystem Links
 | Repo | Layer | Role |
 |---|---|---|
 | [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) | L7 | Core Hub |
