@@ -42,7 +42,7 @@ Different artifacts should be cited differently:
 | Ethical logic | Ethical layer documentation |
 | Pipeline logic | Specific pipeline document |
 
-Avoid citing вЂњeverything at onceвЂќ unless contextually necessary.
+Avoid citing "everything at once" unless contextually necessary.
 
 ---
 
@@ -91,7 +91,7 @@ The repository functions as:
 Recommended approach:
 - publish focused fragments
 - reference the repository as infrastructure
-- avoid claiming вЂњnew scienceвЂќ status explicitly
+- avoid claiming "new science" status explicitly
 
 ---
 

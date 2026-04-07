@@ -50,7 +50,7 @@ It claims to provide a **meta-scientific coordination layer** across them.
 - The observer is never epistemically external.
 
 **Relation to prior work**
-- Extends KuhnвЂ™s paradigm dependence
+- Extends Kuhn's paradigm dependence
 - Formalizes the role of computational and semantic interfaces
 
 **Falsifiability**
@@ -66,7 +66,7 @@ It claims to provide a **meta-scientific coordination layer** across them.
 
 **Position**
 - Ethics is a structural layer, not a policy afterthought.
-- вЂњNeutral toolsвЂќ are a myth in complex socio-technical systems.
+- "Neutral tools" are a myth in complex socio-technical systems.
 
 **Operational Evidence**
 - Terra FMP Live prototype includes an explicit ethical validation layer.

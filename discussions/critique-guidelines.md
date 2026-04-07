@@ -61,7 +61,7 @@ The following are **explicitly not considered valid critique**:
 - Personal judgments about the author
 - Statements of belief or disbelief without argument
 - Appeals to authority without reasoning
-- Vague dismissal (вЂњthis is nonsenseвЂќ, вЂњnot scientificвЂќ)
+- Vague dismissal ("this is nonsense", "not scientific")
 - Demands for institutional validation as a prerequisite
 
 Such inputs may be acknowledged but are not engaged epistemically.
@@ -98,7 +98,7 @@ None are privileged a priori.
 
 ---
 
-## 5. AuthorвЂ™s Commitments
+## 5. Author's Commitments
 
 The author commits to:
 

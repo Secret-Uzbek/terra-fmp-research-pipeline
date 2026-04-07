@@ -141,7 +141,7 @@ Forks are treated as:
 - parallel implementations
 - competing interpretations
 
-No attempt is made to вЂњmerge everything backвЂќ.
+No attempt is made to "merge everything back".
 
 Divergence is acceptable.
 
