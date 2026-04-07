@@ -10,7 +10,7 @@
 
 This repository is not presented as a finished theory or a validated system.
 
-It is presented as a **research pipeline** —  
+It is presented as a **research pipeline** вЂ”  
 a structured environment where theory, executable artifacts, and critique can coexist.
 
 This document formally invites:
@@ -31,7 +31,7 @@ Contributors are explicitly invited to engage with:
 - relation to systems theory, complexity science, and philosophy of science
 
 ### 2.2 Operational Artifacts
-- Terra Semantic System (L0–L1)
+- Terra Semantic System (L0вЂ“L1)
 - ethical constraints as explicit layers
 - executable HTML prototypes as epistemic demonstrations
 
@@ -49,7 +49,7 @@ This is **not** a request for:
 - belief
 - agreement
 
-Critical disagreement is not only allowed — it is expected.
+Critical disagreement is not only allowed вЂ” it is expected.
 
 ---
 
@@ -104,7 +104,7 @@ This repository exists to be *tested*, not defended.
 
 If the framework fails under scrutiny, that failure is itself a valid research outcome.
 
-Discussion is the mechanism by which this system either evolves — or dissolves.
+Discussion is the mechanism by which this system either evolves вЂ” or dissolves.
 
 
 ---

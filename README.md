@@ -1,7 +1,4 @@
-[![Terra Legal](https://img.shields.io/badge/license-TPL--1.0-7c6aff)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
-[![Child Safety First](https://img.shields.io/badge/child_safety-first-00d4aa)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal/blob/main/CODE_OF_CONDUCT.md)
-
-# ð TERRA FMP RESEARCH PIPELINE
+# 🌐 TERRA FMP RESEARCH PIPELINE
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
 [![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
@@ -11,19 +8,19 @@
 > **Repository:** terra-fmp-research-pipeline  
 > Part of the **Fractal Metascience Paradigm (FMP)** ecosystem.
 
-## ð¤ Author
+## 👤 Author
 **Abdurashid Abdukarimov**  
 - ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
 - Location: Tashkent, Uzbekistan
 - Foundation: Fractal Metascience Foundation
 
-## ð Links
+## 🔗 Links
 - [FMP Central Hub](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
 - [Full Ecosystem Map](https://Secret-Uzbek.github.io/FMP-CENTRAL-REPO/repository.html)
 
 
 ---
-## 🌍 FMP Ecosystem Links
+## ? FMP Ecosystem Links
 | Repo | Layer | Role |
 |---|---|---|
 | [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) | L7 | Core Hub |
