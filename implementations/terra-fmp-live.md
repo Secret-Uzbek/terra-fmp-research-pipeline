@@ -1,6 +1,6 @@
-# Terra FMP Live — Executable Semantic Prototype
+# Terra FMP Live вЂ” Executable Semantic Prototype
 
-This document describes the **Terra FMP Live system** —
+This document describes the **Terra FMP Live system** вЂ”
 a fully local, executable semantic prototype implementing
 key principles of the Fractal Metascience Paradigm (FMP).
 
@@ -24,13 +24,13 @@ Terra FMP Live exists to demonstrate that:
 - Meta-scientific ideas can be embodied in executable systems
 - Semantic processing does not require centralized AI services
 - Ethical constraints can be explicit and inspectable
-- Theory ↔ implementation ↔ critique can coexist in one artifact
+- Theory в†” implementation в†” critique can coexist in one artifact
 
 ---
 
 ## Implemented layers
 
-### L0 — Semantic Kernel
+### L0 вЂ” Semantic Kernel
 
 Responsibilities:
 - Intent detection
@@ -43,7 +43,7 @@ Core component:
 
 ---
 
-### L1 — Offline Semantic Analysis
+### L1 вЂ” Offline Semantic Analysis
 
 Responsibilities:
 - Keyword frequency analysis
@@ -85,7 +85,7 @@ Core component:
 
 Responsibilities:
 - Orchestration of all subsystems
-- Level switching (L0 ↔ L1)
+- Level switching (L0 в†” L1)
 - Semantic search across archives
 - UI synchronization
 
@@ -112,7 +112,7 @@ This enforces:
 ## Linguistic Component
 
 Included:
-- Embedded Uzbek–German dictionary
+- Embedded UzbekвЂ“German dictionary
 - Manual lemma extension
 - Postlingua trace generation
 

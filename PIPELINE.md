@@ -1,4 +1,4 @@
-# PIPELINE — How Terra FMP Works
+# PIPELINE вЂ” How Terra FMP Works
 
 This file describes the **operational logic** of the Terra FMP Research Pipeline.
 
