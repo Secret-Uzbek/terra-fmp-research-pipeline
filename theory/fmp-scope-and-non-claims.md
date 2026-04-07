@@ -1,4 +1,4 @@
-# Fractal Metascience Paradigm — Scope and Non-Claims
+# Fractal Metascience Paradigm вЂ” Scope and Non-Claims
 
 **Author:** Abdurashid Abdukarimov  
 **Context:** Terra FMP Research Pipeline  
@@ -45,7 +45,7 @@ FMP claims only the following:
    - ethical
 3. Executable artifacts can serve as **epistemic illustrations**, not proofs
 4. Ethical constraints are not external add-ons but **first-class structural elements**
-5. No single representation exhausts a system’s meaning
+5. No single representation exhausts a system's meaning
 
 These are methodological and epistemological claims, not empirical laws.
 

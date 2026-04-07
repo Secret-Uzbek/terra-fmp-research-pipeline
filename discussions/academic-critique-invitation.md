@@ -48,7 +48,7 @@ The following forms of critique are explicitly encouraged:
 - questionable assumptions
 - alternative framings that invalidate parts of FMP
 
-Disagreement is not only acceptable — it is expected.
+Disagreement is not only acceptable вЂ” it is expected.
 
 ---
 
@@ -81,7 +81,7 @@ Both short and long-form contributions are welcome.
 
 ---
 
-## 6. Author’s Commitments
+## 6. Author's Commitments
 
 The author commits to:
 

@@ -1,4 +1,4 @@
-# MANIFEST — Terra FMP Research Pipeline
+# MANIFEST вЂ” Terra FMP Research Pipeline
 
 This document enumerates the components included in this repository
 and their provenance.
@@ -11,7 +11,7 @@ and their provenance.
 
 - Meta-scientific framework
 - Fractal, recursive epistemology
-- Observer–System–Interface triad
+- ObserverвЂ“SystemвЂ“Interface triad
 - Non-linear knowledge evolution
 
 Source:
@@ -26,8 +26,8 @@ Source:
 ### Terra Semantic System
 
 Levels implemented:
-- **L0** — intent detection, keyword extraction, basic ethics
-- **L1** — offline semantic analysis, concept matching
+- **L0** вЂ” intent detection, keyword extraction, basic ethics
+- **L1** вЂ” offline semantic analysis, concept matching
 
 Core components:
 - L0SemanticKernel
@@ -43,7 +43,7 @@ Core components:
 - Live HTML system (fully offline-capable)
 - Semantic archive creation
 - Role-based reasoning (FMP Reasoning block)
-- Uzbek–German embedded dictionary
+- UzbekвЂ“German embedded dictionary
 
 ---
 

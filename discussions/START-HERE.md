@@ -1,11 +1,11 @@
-# Start Here — Discussions & Critique
+# Start Here вЂ” Discussions & Critique
 
 Welcome.
 
 This repository is intentionally open to **critique, questioning,
 reinterpretation, and disagreement**.
 
-Discussion is not a side feature here —
+Discussion is not a side feature here вЂ”
 it is part of the research pipeline.
 
 ---
@@ -21,7 +21,7 @@ Use GitHub Discussions to:
 - suggest extensions
 - test interpretations
 
-Critical engagement is not only allowed — it is expected.
+Critical engagement is not only allowed вЂ” it is expected.
 
 ---
 
@@ -86,7 +86,7 @@ Disagreement is valuable.
 
 ---
 
-## 5. Author’s Position
+## 5. Author's Position
 
 The author does not claim:
 
